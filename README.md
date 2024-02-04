@@ -19,7 +19,7 @@
 - A fejlesztő nem vállal felelősséget semmilyen közvetlen vagy közvetett kárért, ami a bot használatából ered.
 
 **7.** Automatikus Elfogadás
-- A felhasználó elfogadja, hogy a KRÉTA bot automatikusan elfogadja a jelen Felhasználási Feltételeket annak használata során. Az automatikus elfogadás érvényes minden bot használatakor, beleértve az esetleges frissítéseket is.
+- A felhasználó elfogadja, hogy a bot automatikusan elfogadja a jelen Felhasználási Feltételeket annak használata során. Az automatikus elfogadás érvényes minden bot használatakor, beleértve az esetleges frissítéseket is.
 
 **8.** Kapcsolatok
 - Discord • [Katt Ide](https://discord.gg/DZP9Qh7GWs) / 1bali1

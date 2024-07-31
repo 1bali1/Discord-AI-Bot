@@ -1,3 +1,5 @@
+# Figyelem, a kód régi, és elavult!
+
 # AI Bot - Felhasználási Feltételek 
 
 **1.** Bot Felhasználása
